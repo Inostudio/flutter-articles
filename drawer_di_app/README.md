@@ -1,16 +1,14 @@
-# flutter_app
+# Drawer DI application
 
-A new Flutter application.
+## Description
 
-## Getting Started
+This project illustrates how to integrate DI into your app using BLoC-architecture.
 
-This project is a starting point for a Flutter application.
+This app has some demo screens and uses Drawer component (side menu). That part sometimes can be tricky to understand.
 
-A few resources to get you started if this is your first Flutter project:
+That is the third project in our Flutter articles series. To look at previous ones, go to https://github.com/Inostudio/flutter-articles/tree/master/simple_bloc_app and https://github.com/Inostudio/flutter-articles/tree/master/bloc_context_app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Prerequisites
+
+You will need Flutter framework installed. Check out official site for the detailed instruction. No other configuration is required.
